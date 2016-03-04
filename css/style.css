@@ -13,12 +13,12 @@ nav .brand-logo {
 
 p {
   line-height: 2rem;
+  font-family: 'Raleway Dots', cursive;
 }
 
-.button-collapse {
-  color: #cfe2ab;
+ul{
+  font-family: 'Raleway Dots', cursive;
 }
-
 .parallax-container {
   min-height: 380px;
   line-height: 0;
@@ -108,7 +108,7 @@ display: none;
 .normal{
   padding-top: 13%;
   padding-bottom: 13%;
-  margin-bottom: 20px;
+  
 }
 
 .head1{
@@ -118,13 +118,10 @@ display: none;
   color:#a68a62;
 
 }
-#girl{
-  margin-bottom: 10px;
-}
+
 #services{
   color: #4c0034;
   background-color: white;
-
 }
 #serv{
   text-align: center;
@@ -137,27 +134,88 @@ display: none;
   text-align: center;
   font-size: 20px;
 }
-.spec{
-  text-align: center;
-  font-family: 'Alice', serif;
-  color:#a68a62;
-  opacity: .8;
-  font-size: 15px;
+
+#white{
+  height: 50px;
+  width:100%;
+  background-color: white;
+  -ms-transform: skewY(2deg); /* IE 9 */
+    -webkit-transform: skewY(2deg); /* Safari */
+    transform: skewY(2deg);
 }
-#stair{
-  margin-bottom: 10px;
+#white2{
+  height: 72px;
+  width:100%;
+  background-color: white;
+  
 }
-#last{
-  background-color: #fffdf6;
+#blue{
+  height: 50px;
+  width:100%;
+  background-color: #edf4f4;
+  -ms-transform: skewY(-2deg); /* IE 9 */
+    -webkit-transform: skewY(-2deg); /* Safari */
+    transform: skewY(-2deg);
 }
-#con{
-  color:#a68a62;
+#blue2{
+  height: 100px;
+  width:100%;
+  background-color: #edf4f4;
+    
 }
 
+#test{
+  font-family: 'Raleway', cursive;
+  font-weight: 400;
+  color: black;
+  font-size: 15px;
+}
+#last{
+  background-color: #edf4f4;
+}
+#prices{
+  color: white;
+  background-color: #233344;
+}
+#ses{
+  font-family: 'Raleway Dots', cursive;
+  color:white;
+  text-align: center;
+  font-size: 12px;
+}
+
+#pri{
+  text-align: center;
+  font-family: 'Raleway Dots', sans-serif;
+  color:white;
+}
+#box{
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+  width: 300px;
+  font-family: 'Raleway Dots', sans-serif;
+  color: white;
+  font-size: 16px;
+
+}
+#contact{
+  color: white;
+  background-color: #4c0034;
+}
+#ses{
+  font-family: 'Raleway Dots', cursive;
+  color:white;
+  text-align: center;
+  font-size: 17px;
+}
+
+
 #foot{
-  background-color: #fff9db;
+  background-color: #233344;
 }
 #all{
-  color:#a68a62;
+  color:white;
   font-size: 10px;
+  font-family: 'Raleway Dots', cursive;
 }
