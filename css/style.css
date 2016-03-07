@@ -5,10 +5,8 @@
  *
  * Made By MaterializeCSS.com
  */
-
-nav ul a,
-nav .brand-logo {
-  color: #444;
+a{
+  color: white;
 }
 
 p {
@@ -69,6 +67,9 @@ footer.page-footer {
 }
 #rab1{
     left:100;
+}
+#st{
+  background-size: 1000px !important;
 }
 
 #down{
